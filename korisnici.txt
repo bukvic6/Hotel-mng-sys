@@ -1,0 +1,9 @@
+korisnik|marko|markovic|marko123|markovic123|828281919|marko@gmail.com|300003
+korisnik|milan|milanovic|milan123|milanovic123|32321988|milan@gmail.com|300001
+recepcioner|petar|petrovic|petar123|petrovic123|2323234|petar@gmail.com|100001
+korisnik|maja|majovic|maja123|majovic123|23424902|maja@gmail.com
+korisnik|marko|markovic|marko123|markovic123|828281919|marko@gmail.com
+korisnik|milan|milanovic|milan123|milanovic123|32321988|milan@gmail.com
+recepcioner|paja|pajovic|paja123|pajovic123|2323234|petar@gmail.com|100004
+korisnik|maja|majovic|maja123|majovic123|23424902|maja@gmail.com
+administrator|dario|dariovic|dario123|dariovic123|23298098|dario@gmail.com

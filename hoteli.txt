@@ -1,0 +1,6 @@
+100001|Fontana|Nikole Pasica 27|ne|da|7|200001
+100002|Garden|Primorska 50|da|da|2|200002|200009|200010
+100003|Sheraton|Polgar Andrasa 1|da|da|8|200003
+100004|Pupin|Narodnih heroja 5|ne|da|9|200004
+100005|Garni|Uspenska 1|da|da|6|200005|200011
+100006|Vila Dama|Backa 14|ne|da|8|200006
